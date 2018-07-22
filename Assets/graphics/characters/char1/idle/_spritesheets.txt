@@ -1,0 +1,2 @@
+char1_idle.png,14,28,4
+char1_idle_final.png,46,39,4

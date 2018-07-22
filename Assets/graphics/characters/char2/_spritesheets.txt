@@ -1,0 +1,2 @@
+char2_walk_idle_jump_anim.png,52,42,12
+char2_sword_attack_anim.png,52,42,7

@@ -1,0 +1,4 @@
+char2_staff_attack_anim.png,52,42,5
+char2_hurting.png,52,42,3
+char2_punch.png,52,42,4
+char2_punch_final.png,52,42,4

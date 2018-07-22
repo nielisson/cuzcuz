@@ -1,0 +1,1 @@
+char1_sword_attack.png,47,39,7

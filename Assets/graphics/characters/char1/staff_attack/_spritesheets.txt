@@ -1,0 +1,1 @@
+char1_staff_attack.png,32,30,7

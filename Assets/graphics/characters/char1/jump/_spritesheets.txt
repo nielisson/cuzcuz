@@ -1,0 +1,2 @@
+char1_jump.png,14,28,5
+char1_jump_final.png,46,39,4
