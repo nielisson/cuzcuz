@@ -614,9 +614,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudProjectId: 4c8d0c72-4a4c-4de8-abb7-13bfae3c7955
+  projectName: Cuzcuz
+  organizationId: cyrus-pellet
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
